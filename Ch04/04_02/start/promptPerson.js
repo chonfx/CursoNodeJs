@@ -20,7 +20,7 @@ rl.question("cual es el nombre",function(respuesta){
 		rl.prompt();
 		}
 		
-
+  
 		//console.log(diciendo.trim());
 	});
 	//console.log(answer);
